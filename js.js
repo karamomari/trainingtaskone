@@ -97,3 +97,7 @@ let array=["karam","mohammad","ahmed","alomari"];
 // الثالث نهايه المقطع المراد نسخه والديفيلت هو طول الاريه 
 // console.log(array)
 // console.log(array.copyWithin(2))
+
+
+
+// update
